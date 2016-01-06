@@ -62,7 +62,7 @@
 
 ## Slide 6: The Semantic Enrichment project II
 
-* Two ways for enriching P. MathML. procedural and declarative (grammatik)
+* Two ways for enriching P. MathML. procedural and declarative (grammar)
   * chose procedural since it should always produce something
 * Goal: Enriching the presentation -- not the "real" semantics
 
