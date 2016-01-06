@@ -1,24 +1,23 @@
-
-
 # Notes
 
 
-## Slide 1: What is MathJax
+## Slide 2: What is MathJax
 
 * go through slide
 * Show of hands: who knows what MathJax is?
   * Sorry for wasting your time then!
 
-## Slide 2: Who is MathJax
+## Slide 3: Who is MathJax
 
 * go through slide
 * point out team
 
-## Slide 3: The web as a new medium
+## Slide 4: The web as a new medium
 
 * tell the story
+* the social perspective
 
-## Slide 4: The web as a new fabric
+## Slide 5: The web as a new raw material
 
 [* add example: slides rendering vs struik]
 
@@ -33,7 +32,7 @@
   * Advent of responsive design earliest example perhaps, exploring the web's fluidity
   * Merging of media
     * text, audio, video merging => Youtube, Hannover project in this session,
-    * Computation, visualization, interactivity: Sage Math, IPython/Jupyter, mathJS, maximaJS
+    * Computation, visualization, interactivity: Sage Math, IPython/Jupyter, mathJS, CAS
 * more to come
   * Virtual reality (Vi Hart, MathBox)
 * search for the grain not just about standards, more orthogonal
@@ -47,7 +46,7 @@
   * slowly becoming unnecessary due to improvements in the OWP
 * For science: nothing much.
 
-## Slide 5: The Semantic Enrichment project I
+## Slide 6: The Semantic Enrichment project I
 
 * Funded by the Alfred P. Sloan Foundation
 * MathJax's internal format is Presentation MathML
@@ -60,21 +59,21 @@
     * navigation/exploration
     * voicing for accessibility
 
-## Slide 6: The Semantic Enrichment project II
+## Slide 7: The Semantic Enrichment project II
 
 * Two ways for enriching P. MathML. procedural and declarative (grammar)
   * chose procedural since it should always produce something
 * Goal: Enriching the presentation -- not the "real" semantics
 
 
-## Slide 7: Time for demos
+## Slide 8: Time for demos
 
 * Prep struik beforehand
 * only show sample
 * try demo the walker
 
 
-## Slide 8: What we learned about usability
+## Slide 9: What we learned
 
 *  MathJax always wanted to make itself superfluous.
   * Solve the chicken&egg problem of MathML.
@@ -100,7 +99,7 @@
   * then div/span soup with CSS
   * now we're back to a better
 
-## Slide 9
+## Slide 10
 
 * reflection on the session title
   * don't look for today's web.
